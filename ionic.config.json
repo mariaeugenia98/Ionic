@@ -1,0 +1,10 @@
+{
+  "name": "videoclub",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
