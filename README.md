@@ -1,3 +1,3 @@
 # Ionic
-tarea de ejercicios
+tarea de ejercicios ionic 1:
 https://github.com/mariaeugenia98/videoclub
